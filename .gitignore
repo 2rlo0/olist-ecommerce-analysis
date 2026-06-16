@@ -1,0 +1,19 @@
+# Virtual Environment
+olist_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Data files
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
